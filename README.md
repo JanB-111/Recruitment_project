@@ -20,6 +20,7 @@ to GitHub REST API.
 * org-JSON 20251224,
 * JUnit 6.0.2 (used for testing application),
 * WireMock 3.2.0
+* Gradle-Kotlin
 
 <h2>How to use</h2>
 The project contains two classes: "Client" and "Controller". In order to list
